@@ -9,7 +9,7 @@ JavaScript: Programming language for the interactivity and functionality of the 
 Getting Started
 Clone the repository:
 Copy code
-git clone https://github.com/example/drum-kit.git
+git clone https://github.com/kukey02/Drum-kit.git
 Open the project folder.
 
 Open the index.html file in a web browser.
