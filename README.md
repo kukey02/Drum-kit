@@ -8,10 +8,12 @@ JavaScript: Programming language for the interactivity and functionality of the 
 
 Getting Started
 Clone the repository:
-Copy code
+
+-Copy code
 git clone https://github.com/kukey02/Drum-kit.git
-Open the project folder.
 
-Open the index.html file in a web browser.
+-Open the project folder.
 
-Start playing the drum kit by clicking on the virtual drum pads or pressing the corresponding keyboard keys.
+-Open the index.html file in a web browser.
+
+-Start playing the drum kit by clicking on the virtual drum pads or pressing the corresponding keyboard keys.
