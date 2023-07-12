@@ -1,12 +1,19 @@
 # Drum-kit
 Allows users to play various drum sounds by clicking on the virtual drum pads or pressing the corresponding keyboard keys. With its intuitive interface and responsive design, this drum kit provides an enjoyable and interactive drumming experience.
 
-Technologies Used
+#Technologies Used
+
 HTML: Markup language for the structure and layout of the drum kit.
+
 CSS: Stylesheet language for the visual design and responsive layout.
+
 JavaScript: Programming language for the interactivity and functionality of the drum kit.
 
-Getting Started
+
+
+
+#Getting Started
+
 Clone the repository:
 
 -Copy code
